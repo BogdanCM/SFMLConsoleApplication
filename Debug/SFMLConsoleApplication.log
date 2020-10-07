@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\Bogdan\Desktop\SFMLConsoleApplication\SFMLConsoleApplication\Game.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bogdan\Desktop\SFMLConsoleApplication\SFMLConsoleApplication\Game.cpp(179,26): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  SFMLConsoleApplication.vcxproj -> C:\Users\Bogdan\Desktop\SFMLConsoleApplication\Debug\SFMLConsoleApplication.exe
